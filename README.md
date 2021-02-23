@@ -1,3 +1,11 @@
-# francesca-p1
+# Description
 
-This is the project 1 repository for francesca team. 
+In this project Naive Bayes classifier was implemented from scratch using both pandas and Dask to classify virus. 
+
+# Contributors: 
+
+1. Md. Redwan Islam
+2. Yulone
+3. Ruili Fang
+
+
